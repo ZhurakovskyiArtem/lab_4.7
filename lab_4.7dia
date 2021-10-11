@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T16:24:27.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="zesQHFtTfZdBhLZV7iq1" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T16:33:37.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="ViY7jBZfBrFyZsKe9Cax" version="15.5.0" type="github">
   <diagram id="F-ch2fGaRSzBBZ4w55NV" name="Page-1">
     <mxGraphModel dx="1060" dy="2964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="JNb_IjhS54rIc5qKz38t-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNb_IjhS54rIc5qKz38t-18" target="JNb_IjhS54rIc5qKz38t-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNb_IjhS54rIc5qKz38t-18" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;R = (pow(x, 2 * n + 1) * 2 * n) / 2 * n + 1&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JNb_IjhS54rIc5qKz38t-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;R = (pow(x, 2 * n + 1) * 2 * n) / 2 * n + 1&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNb_IjhS54rIc5qKz38t-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNb_IjhS54rIc5qKz38t-20" target="JNb_IjhS54rIc5qKz38t-22">
