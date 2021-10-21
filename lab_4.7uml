@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T12:27:43.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="Mge0o-piQAe5FyKwEbwC" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T10:01:55.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.72" etag="fiK-vaHQvIdPuGowKuUi" version="15.5.7" type="github">
   <diagram id="cOwehkDc7Uq66ar_zEV5" name="Page-1">
-    <mxGraphModel dx="742" dy="2776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="2853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
         <mxCell id="SD4UrAZQl4R5Qn714gfd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SD4UrAZQl4R5Qn714gfd-25" target="SD4UrAZQl4R5Qn714gfd-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SD4UrAZQl4R5Qn714gfd-25" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;R = (pow(x, 2 * n + 1) * 2 * n) / 2 * n + 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=31;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="-1269" width="120" height="40" as="geometry" />
+        <mxCell id="SD4UrAZQl4R5Qn714gfd-25" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;R = x * 2 * n) / 2 * n + 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=31;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="-1269" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SD4UrAZQl4R5Qn714gfd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SD4UrAZQl4R5Qn714gfd-28" target="SD4UrAZQl4R5Qn714gfd-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,9 +97,9 @@
         <mxCell id="SD4UrAZQl4R5Qn714gfd-31" value="S += a" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="1550" y="-1269" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SD4UrAZQl4R5Qn714gfd-40" value="[x&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;&amp;lt; 1&lt;/span&gt;]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SD4UrAZQl4R5Qn714gfd-34" target="SD4UrAZQl4R5Qn714gfd-38" edge="1">
-          <mxGeometry x="-0.2" y="11" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="SD4UrAZQl4R5Qn714gfd-40" value="[abs(a) &amp;gt;= eps]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SD4UrAZQl4R5Qn714gfd-34" target="SD4UrAZQl4R5Qn714gfd-38" edge="1">
+          <mxGeometry y="11" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SD4UrAZQl4R5Qn714gfd-34" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
